@@ -28,17 +28,17 @@ O aplicativo consiste em um **jogo de dados**, onde o usuário pode interagir co
 
 ### 🖼️ Demonstração
 
-![Screenshot_2026-04-13-21-05-43-095_br edu ifsp smp joaoManuel](https://github.com/user-attachments/assets/28f0655d-27a8-421d-99ff-017e375f1a85)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/28f0655d-27a8-421d-99ff-017e375f1a85" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4327823c-555c-450e-af10-4380f098f8b8" width="200"/>
+  <img src="https://github.com/user-attachments/assets/6dfb35d7-8cfb-411d-b1f2-f35adda9792d" width="200"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/e290339a-3359-449f-9623-2c25e6df4cfb" width="200"/>
+  <img src="https://github.com/user-attachments/assets/90717d08-deb0-43a8-ab2e-69a89c694499" width="200"/>
+  <img src="https://github.com/user-attachments/assets/c6a5d825-3445-4578-9772-5c9dc55cfdb7" width="200"/>
+</p>
 
-![Screenshot_2026-04-13-21-05-46-539_br edu ifsp smp joaoManuel](https://github.com/user-attachments/assets/4327823c-555c-450e-af10-4380f098f8b8)
-
-![Screenshot_2026-04-13-21-05-50-238_br edu ifsp smp joaoManuel](https://github.com/user-attachments/assets/6dfb35d7-8cfb-411d-b1f2-f35adda9792d)
-
-![Screenshot_2026-04-13-21-05-53-066_br edu ifsp smp joaoManuel](https://github.com/user-attachments/assets/e290339a-3359-449f-9623-2c25e6df4cfb)
-
-![Screenshot_2026-04-13-21-05-56-066_br edu ifsp smp joaoManuel](https://github.com/user-attachments/assets/90717d08-deb0-43a8-ab2e-69a89c694499)
-
-![Screenshot_2026-04-13-21-05-57-547_br edu ifsp smp joaoManuel](https://github.com/user-attachments/assets/c6a5d825-3445-4578-9772-5c9dc55cfdb7)
 ---
 
 Este projeto representa um passo importante no aprendizado de desenvolvimento mobile, consolidando conhecimentos fundamentais e abrindo caminho para aplicações mais complexas no futuro.
+
